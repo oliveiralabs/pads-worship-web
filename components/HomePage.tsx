@@ -5,8 +5,7 @@ import { localizedPath } from "@/lib/site";
 import type { Locale, PadSound } from "@/lib/types";
 import { PageShell } from "./AppShell";
 import { SoundCard } from "./SoundCard";
-import { SoundExplorer } from "./SoundExplorer";
-import { StoreButton } from "./StoreButton";
+import { StoreButtons } from "./StoreButton";
 
 export function HomePage({ locale, featured }: { locale: Locale; featured: PadSound[] }) {
   const t = getCopy(locale);
@@ -21,7 +20,7 @@ export function HomePage({ locale, featured }: { locale: Locale; featured: PadSo
               <h1>{t.hero.title}</h1>
               <p className="lead">{t.hero.body}</p>
               <div className="hero-actions">
-                <a className="button button-primary" href="#play">{t.hero.play}<span>↓</span></a>
+                <StoreButtons locale={locale} />
                 <Link className="text-link" href={localizedPath("/sounds/", locale)}>{t.hero.explore}<span>↗</span></Link>
               </div>
             </div>
@@ -35,13 +34,6 @@ export function HomePage({ locale, featured }: { locale: Locale; featured: PadSo
                 <div className="phone-wave">{Array.from({ length: 32 }).map((_, i) => <i key={i} style={{ height: `${14 + ((i * 17) % 34)}px` }} />)}</div>
               </div>
             </div>
-          </div>
-        </section>
-
-        <section className="player-section" id="play">
-          <div className="shell">
-            <div className="section-heading player-heading"><div><p className="eyebrow">{t.hero.player}</p><h2>{locale === "pt" ? "Toque. Sinta. Continue." : "Tap. Feel it. Stay in the moment."}</h2></div><p>{locale === "pt" ? "Escolha um timbre e experimente suas notas diretamente aqui." : "Choose a texture and try its notes right here."}</p></div>
-            <SoundExplorer sounds={featured.slice(0, 3)} locale={locale} />
           </div>
         </section>
 
@@ -65,7 +57,7 @@ export function HomePage({ locale, featured }: { locale: Locale; featured: PadSo
 
         <section className="download-band">
           <div className="shell download-grid">
-            <div><p className="eyebrow">{t.download.eyebrow}</p><h2>{t.download.title}</h2><p className="lead">{t.download.body}</p><StoreButton label={t.download.button} /></div>
+            <div><p className="eyebrow">{t.download.eyebrow}</p><h2>{t.download.title}</h2><p className="lead">{t.download.body}</p><StoreButtons locale={locale} /></div>
             <div className="infinity-mark"><Image src="/brand/pads-worship-icon.png" alt="Pads Worship" width={310} height={310} /></div>
           </div>
         </section>

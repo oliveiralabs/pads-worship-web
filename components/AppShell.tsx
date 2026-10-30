@@ -3,7 +3,7 @@ import Link from "next/link";
 import { getCopy } from "@/lib/copy";
 import { localizedPath, supportEmail } from "@/lib/site";
 import type { Locale } from "@/lib/types";
-import { StoreButton } from "./StoreButton";
+import { StoreButtons } from "./StoreButton";
 
 export function Header({ locale }: { locale: Locale }) {
   const t = getCopy(locale);
@@ -22,7 +22,7 @@ export function Header({ locale }: { locale: Locale }) {
         </nav>
         <div className="nav-actions">
           <Link className="language-link" href={otherLocale === "pt" ? "/pt/" : "/"} lang={otherLocale}>{t.nav.language}</Link>
-          <StoreButton label={t.nav.download} compact />
+          <StoreButtons locale={locale} compact />
         </div>
       </div>
     </header>
