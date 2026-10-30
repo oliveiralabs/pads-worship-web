@@ -1,0 +1,1337 @@
+[
+  {
+    "id": "3b533bf2-6f34-4a3f-8447-faa82e4e732f",
+    "name": "Sweeper Flanger",
+    "slug": "sweeper-flanger",
+    "access": "free",
+    "isPremium": false,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 0,
+    "cover": "/catalog/sounds/3b533bf2-6f34-4a3f-8447-faa82e4e732f/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/sweeper-flanger/cover.png",
+    "featured": true,
+    "description": "Sweeper Flanger is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Sweeper Flanger é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "fa0f9eb8-ecb2-4cda-a9d2-c242378c5892",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "f2245bba-186f-4210-9d6d-f171cf1c2fe9",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "34354119-735c-48c8-926a-14d178ef3d3a",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "db8d4dc6-f102-4648-b461-054899c0d36f",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "7c5b21ee-28af-4573-81a9-bbdaf246d85e",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "1cf68982-8b8d-425a-8b8c-82cffd53eda7",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "2ecc4c89-92a0-45a0-8706-143944f479b9",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "b827d04b-c230-4b7a-ae76-9b7b8964e5f9",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "df2eb177-b387-4f8e-852b-efcf434db2c0",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "7c8cb076-33eb-4dd9-993a-40cff0a8355c",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "8f40b70c-7310-4969-bfbc-a5397f2aacb0",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "75026417-2ac6-4520-9c7e-1cbbf8c41961",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "12a7ee14-0b10-4c26-98c0-1b6db232de7a",
+    "name": "Atmosphere",
+    "slug": "atmosphere",
+    "access": "task",
+    "isPremium": false,
+    "isDefault": false,
+    "needUserTask": true,
+    "sortOrder": 1,
+    "cover": "/catalog/sounds/12a7ee14-0b10-4c26-98c0-1b6db232de7a/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/atmosphere/cover.png",
+    "featured": true,
+    "description": "Atmosphere is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Atmosphere é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "a81db088-b9e8-435a-bf10-adafbf5274c1",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "8e5f31bf-3522-40b7-8716-87166777b7fa",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "ee3fdef1-c703-434e-b2fc-d49d9d78c2c1",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "8ae570a3-8a3c-42fa-b2b4-0b26b8d9ec5d",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "590272fe-cdfe-4324-904c-9256290f0771",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "3616835c-11d5-40bc-9f38-02624978ce0a",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "74cb1b3e-34fc-4b62-a0c3-c89060adba20",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "573483c1-d9dc-4757-b28f-624d24976d1a",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "bbeb4028-90a0-4910-9811-05dbb76980a1",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "0d0c1229-f94b-432b-9344-c250177d1cf5",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "c892c57b-b18e-4664-9fe4-e0005fa64390",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "180de541-1b4a-4ded-b01f-565d260ee4e2",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/atmosphere/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "2098bf99-4d3d-426c-a63c-cece7c4c4a42",
+    "name": "Epicsaw",
+    "slug": "epicsaw",
+    "access": "free",
+    "isPremium": false,
+    "isDefault": true,
+    "needUserTask": false,
+    "sortOrder": 2,
+    "cover": "/catalog/sounds/2098bf99-4d3d-426c-a63c-cece7c4c4a42/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/epicsaw/cover.png",
+    "featured": true,
+    "description": "Epicsaw is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Epicsaw é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "e55af080-89d1-4c20-9d08-3cbc1b48f306",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "c1801f22-86ca-4056-ba32-a2d2743b992f",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "5162faf6-78ec-465d-83ad-c9fc6f23a780",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "435c665e-c156-483d-8f56-28343e501550",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "23014353-16c6-4877-8fc0-563b6086ff98",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "6b450f31-9df2-439e-ac7a-4cb73d071d9a",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "d8752e8d-bd26-4605-9c32-53e0d69f75c8",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "dc63e1d6-9996-4cd8-a5f9-41b8bdc99a94",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "478052bc-1c1c-4d77-bb08-018d3abbd788",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "d2ec97e8-6689-47a4-896c-71cee13f7b7e",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "7e3e15c2-8fd4-4a6a-ac95-a137a1324934",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "0ac2e517-0d76-4f38-9111-12d31ab5fd64",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/epicsaw/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "6f9d6b82-48ac-4df9-bf5e-ebbdbf348b7c",
+    "name": "Lushpad",
+    "slug": "lushpad",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 3,
+    "cover": "/catalog/sounds/6f9d6b82-48ac-4df9-bf5e-ebbdbf348b7c/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/lushpad/cover.png",
+    "featured": false,
+    "description": "Lushpad is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Lushpad é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "1a4975b8-bf02-4797-9ead-0ca17115e0f2",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "e1b41173-189a-4fb1-acf4-57d4fe3a0f61",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "b72d9852-6923-42e9-afd3-4813ae52db63",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "4293c3d4-950e-493c-bc53-ddfa25dbd1fd",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "9eb6c7d5-7507-4722-bc16-a0e50d9f2e25",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "0724cb7f-6920-4157-9ffe-33d5116e131f",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "1d7743d6-9e6e-419a-a570-feb0deb6484e",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "0437257e-832e-47dd-86d1-f4fc8ea5bfd8",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "d2dc0c97-6cd1-48b8-a632-8f6e67757a4a",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "4324c41b-1bc3-4994-bdfd-82ac0fc51265",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "b52b6e76-3327-4347-bbec-98b7c6d76e28",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "5fad4309-c483-4e95-a646-6888eed76af2",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/lushpad/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "31e07654-be07-45c6-99e9-d3e4130794b4",
+    "name": "Organ",
+    "slug": "organ",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 4,
+    "cover": "/catalog/sounds/31e07654-be07-45c6-99e9-d3e4130794b4/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/organ/cover.png",
+    "featured": false,
+    "description": "Organ is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Organ é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "ebe1445e-c074-4938-ba6a-aa07d7a9cc89",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "7761ba2e-617c-4316-91a8-b2fc5f3187fc",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "790da7b5-8111-4e76-bbb1-0d9d14c77597",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "9d31f570-c162-4031-a237-d4e1d0ea658d",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "3ea75844-9f15-4caf-8a30-d9c3aaeca3c7",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "08293955-9cb8-4dc5-8bc7-b4194ba0cfbd",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "f1708117-0dd8-4b4a-9cba-bc4c35f5bf7c",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "055f5064-1944-4a04-9074-ea8aaaaaf360",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "605af4a4-246e-4619-8da6-2697616c242b",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "54009be0-805b-4709-8979-d9efcf042f4d",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "995041ce-02ad-4e4f-b4c8-f34c9e95fb1e",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "7774ea5d-3c22-4d89-80f5-f8037340ff5a",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/organ/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "0cf9d1a1-4be5-415f-8eb7-cead5b391b2a",
+    "name": "Stringpad",
+    "slug": "stringpad",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 5,
+    "cover": "/catalog/sounds/0cf9d1a1-4be5-415f-8eb7-cead5b391b2a/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/stringpad/cover.png",
+    "featured": false,
+    "description": "Stringpad is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Stringpad é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "e1c56113-051d-402f-9774-576aa76a0e19",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "cbc3b1ce-20aa-4b0d-9187-35194d76277a",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "a29f2f6e-b1ab-41c7-9f49-1d61977458b0",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "e65f6bcb-1ee8-4ab7-ac4d-2497154ededd",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "5383bbdc-78c1-48a9-8536-769303b8fc75",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "cf308d7e-168b-4192-a274-a7d86cec8dc8",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "4ec280fa-adc5-46a4-ba3c-fa1e2210f9a0",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "6ab13c07-b59f-499b-96c0-9f6537fd2a05",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "3b99a2be-d679-4e6b-8a33-cad8ba947e8b",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "f907df5d-df6a-410e-9c1d-c3a6487a1aaa",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "6da24426-5591-4592-8291-e3eb4558688a",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "b05cc6e0-a2bb-4b18-8c31-da38ee692d11",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/stringpad/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "a17ec634-f674-4da1-84cc-0a627bde55b3",
+    "name": "Bells Minor",
+    "slug": "bells-minor",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 6,
+    "cover": "/catalog/sounds/a17ec634-f674-4da1-84cc-0a627bde55b3/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/bells-minor/cover.png",
+    "featured": false,
+    "description": "Bells Minor is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Bells Minor é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "b6083525-4815-4f0c-a51a-b7f0fb94698a",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "f0b74231-f82a-47b6-a322-67b6c4260efb",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "5be950d9-be06-45f6-a12d-b98a198b48ae",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "6702e47a-9a9d-4424-a1bb-8fa2c568a02b",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "14cbecb5-6fcb-425c-8b3b-8f0dd4b9566a",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "aeda8bda-a19f-44ee-aff7-201e3874ab0c",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "dfebb315-ac0d-48f2-8f18-e0f16c6d1c79",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "0c474ba9-70ab-4bdb-bf78-4fe90b3d17ab",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "5fa3fe19-990c-4d41-9e2e-7414b3b528ca",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "205a10b0-7c2a-466f-ab57-75abefef1c15",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "662e7ed3-99e3-49ab-afce-cbb20f0a0a32",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "cc1c4b6b-0924-4038-83d3-c96c4db28228",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/bells-minor/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "9a3e0d11-b323-4794-9090-e575e6e11748",
+    "name": "Basic",
+    "slug": "basic",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 7,
+    "cover": "/catalog/sounds/9a3e0d11-b323-4794-9090-e575e6e11748/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/basic/cover.png",
+    "featured": false,
+    "description": "Basic is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Basic é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "411ff958-76f6-4697-94e8-50258b15090b",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "9b8289ee-983a-478b-9724-c7591a940aed",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "a730d75b-4a0a-411b-b57b-0a6bd8ffac37",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "64ef8659-c25e-4f6b-8399-d72909567d24",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "4c6f1173-79fd-4d98-829c-1856e09d461c",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "86c78d06-ecb3-4024-a816-494f1ab28ff8",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "2930c275-be09-469f-8630-5222e1ba44ec",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "62c6ffed-c6cc-4037-882c-d199bc6cf0c7",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "6aee5e62-06dd-42ed-9c68-1c621ced3fa5",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "f6078186-f71d-4331-86d3-0cf13d0c4f7b",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "59d3d2ab-3d05-420a-8735-57601f061c0b",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "a9e476a4-1c23-455c-8441-6d01a645a0ff",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/basic/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "b748e99b-2c83-4c47-942a-92bcaf3c07c8",
+    "name": "Sinos",
+    "slug": "sinos",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 8,
+    "cover": "/catalog/sounds/b748e99b-2c83-4c47-942a-92bcaf3c07c8/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/sinos/cover.png",
+    "featured": false,
+    "description": "Sinos is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Sinos é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "bbf33925-c51c-45c0-b316-928ffb59b7a5",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "ac713a57-b69a-491c-90ad-221222ab568a",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "252b5d97-5489-4a4e-8715-072f4d2e31bb",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "009f8584-8fc3-45d5-ab75-df39187381a4",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "d08506f7-fb06-4bd6-b061-cca9724188da",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "86870261-ac80-491b-af2c-fdb45bb7bfa0",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "7fc2d825-b1a5-4b5a-a26f-a50c8703173d",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "11e9b899-b59a-4eca-9546-16ce7b608c6f",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "618f70da-36b1-45a7-a8f9-576f927927c9",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "d56d2356-4dca-4892-bb44-13b6e0dfce77",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "83cc42e0-4035-4ad8-bfa4-ab2bab06666e",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "5b18abe0-6d11-44c9-ba5e-8587d2361851",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "8d7d81b3-f741-4c37-aba3-32959eae163f",
+    "name": "Soft Over",
+    "slug": "soft-over",
+    "access": "free",
+    "isPremium": false,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 9,
+    "cover": "/catalog/sounds/8d7d81b3-f741-4c37-aba3-32959eae163f/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/soft-over/cover.png",
+    "featured": true,
+    "description": "Soft Over is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Soft Over é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "c5554204-794a-49d5-8850-3fefaccf32d6",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "717319a8-a697-4f8e-b3ff-be086844a9c7",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "baaedfb8-5e41-48c9-b168-e83b5a18b4a2",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "428bfc25-602f-4544-9544-9ec50c7f2732",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "7bf2634c-662d-492d-b525-70ab3b2edb32",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "3812fe11-fa82-46e8-9179-ccfc2bba43bd",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "7c60c95b-99ee-4285-9488-5e13fe7b9564",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "0eb0361f-60c0-4425-bf91-dac93d14459e",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "20345617-2fad-4f2f-bbce-8d552ea25c63",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "b405d9c1-372c-4235-ab0e-f7f966a5ad1b",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "de07711f-5250-4435-9808-c665cfaef702",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "670fca89-8111-4e09-9a28-faa708b4a32b",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "5ade1dba-6c3e-4134-b851-53aadc5d4cb0",
+    "name": "Sweeper Flanger Minor",
+    "slug": "sweeper-flanger-minor",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 10,
+    "cover": "/catalog/sounds/5ade1dba-6c3e-4134-b851-53aadc5d4cb0/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/sweeper-flanger-minor/cover.png",
+    "featured": false,
+    "description": "Sweeper Flanger Minor is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Sweeper Flanger Minor é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "c84a9e39-e24b-4945-af39-f305ace2af28",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "686979c8-7f1b-4618-afa3-a1b61bbaa4af",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "d134e678-c8c2-41f6-99c2-f9526ed880d5",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "a5d5d578-6e6c-4cce-970a-ed4290a6a224",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "5e999faa-3865-4d44-b6fd-8fe5614ac9d7",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "16a16fed-31ff-4a57-8520-8b482d27d3bb",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "82c16b70-d8b7-4a85-a6a5-5a65ddee5d56",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "cda218a3-9711-4342-b458-60b27f98262e",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "22b62cff-10ab-41fe-acc7-89fcba002369",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "b30ae8ef-ae01-48e7-8270-ece5ba0f1e08",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "cd6b9b87-334e-45b7-8488-7da7109c6fc7",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "108c3ed9-0012-4dab-a9a3-130eb4ca7adf",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sweeper-flanger-minor/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "4a3e9877-c65a-4b1a-927e-dfff1f83635e",
+    "name": "Dream Aron Major",
+    "slug": "dream-aron-major",
+    "access": "task",
+    "isPremium": false,
+    "isDefault": false,
+    "needUserTask": true,
+    "sortOrder": 11,
+    "cover": "/catalog/sounds/4a3e9877-c65a-4b1a-927e-dfff1f83635e/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/dream-aron-major/cover.png",
+    "featured": true,
+    "description": "Dream Aron Major is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Dream Aron Major é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "d59dc8df-e8ba-4746-a838-bfa849d96a62",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "f13a11d8-2663-4539-8be4-d2e920355e83",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "93a2cd07-aba3-421e-bf8d-03ac48660439",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "841c233f-10df-48d9-91a6-5e62c15d6653",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "d7f0d2de-3c10-41c1-8039-3df7890477a9",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "cd02fe31-d38c-4292-9c3f-df946a5bd034",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "ef116ecf-99bb-4256-b9e0-a6269e20a5f7",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "a2cc985f-67cf-44ae-a5ba-4d4b520a1916",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "2e49e2dc-c121-4a64-aa15-257ce8e68923",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "b3e4ef66-2229-4db9-9194-b0e9dfbffba1",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "d17e766d-6665-4170-accd-f1c75e3be9fd",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "10fd141d-b504-4654-a1d7-04bebb68af03",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/dream-aron-major/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "8ab33832-bd41-42d2-ba81-5e6537036877",
+    "name": "Sinos Minor",
+    "slug": "sinos-minor",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 12,
+    "cover": "/catalog/sounds/8ab33832-bd41-42d2-ba81-5e6537036877/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/sinos-minor/cover.png",
+    "featured": false,
+    "description": "Sinos Minor is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Sinos Minor é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "09cc577d-4712-4203-9ccb-bd86205ffb69",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "7fd3c3f4-b16a-4b25-ae47-8211d50a148e",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "d41e7727-b909-4e44-a3ce-a49824f89052",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "5f937fce-1687-4b84-b064-0ed52d3fcf1f",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "d418c116-18dc-4e26-af3b-73fcaaf9b468",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "875c9dcd-9a58-450d-99f0-6a768d72a629",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "bd30072e-326f-48fa-8831-bac703420308",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "d1579ab9-e50b-4dc1-a682-dca75e5bb904",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "e012370f-861f-4b11-b6ca-a81ed9f7fce2",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "29a7e526-dc1e-4abf-92ad-14a5f39d85b8",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "39c2957e-c977-43d6-a74d-2c3d9d6dc5f8",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "7c05e232-b90c-4d2c-98cd-dd1179618f35",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/sinos-minor/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "f016c0be-292b-4674-8c13-cfb52f50ba15",
+    "name": "Soft Over Minor",
+    "slug": "soft-over-minor",
+    "access": "premium",
+    "isPremium": true,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 13,
+    "cover": "/catalog/sounds/f016c0be-292b-4674-8c13-cfb52f50ba15/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/soft-over-minor/cover.png",
+    "featured": false,
+    "description": "Soft Over Minor is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Soft Over Minor é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "5a8d79fd-6028-4116-8514-f33dcb28dff6",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "cead5d2c-813a-4b23-9c56-3f06176d9d1d",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "39083f36-0b59-4548-9988-052117f3fb00",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "0714d464-30ef-43c7-b21f-81d69a10b43d",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "6335d7c3-56e4-4162-afa7-a3885352afad",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "c929b859-8f8a-4f0e-b8f0-373709aaafc6",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "752a2105-9d8f-4725-bde2-1914d30d06aa",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "726d5838-e42b-4876-b3d7-82c80d97328d",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "b2df0f1c-cce4-460e-92ab-87be6c3810cf",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "f01df162-f5dc-4f21-9e70-a94d72653735",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "72e9b57f-acda-4b68-8d9d-e092c96691ab",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "2a642b3a-b32b-4b92-a7a8-1ca67f79de32",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/soft-over-minor/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "52aa879c-faf4-4742-8b8e-c5527613515e",
+    "name": "Celestial Flow",
+    "slug": "celestial-flow",
+    "access": "free",
+    "isPremium": false,
+    "isDefault": false,
+    "needUserTask": false,
+    "sortOrder": 15,
+    "cover": "/catalog/sounds/52aa879c-faf4-4742-8b8e-c5527613515e/cover.png",
+    "sourceCoverUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/celestial-flow/cover.png",
+    "featured": true,
+    "description": "Celestial Flow is an official Pads Worship ambient sound, shaped for sustained notes during worship, prayer, rehearsal, and live music.",
+    "descriptionPt": "Celestial Flow é um som ambiente oficial do Pads Worship, criado para notas sustentadas em momentos de adoração, oração, ensaio e música ao vivo.",
+    "items": [
+      {
+        "id": "215ecc27-c2fa-43c2-a842-7903698d933a",
+        "name": "C",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/c.ogg",
+        "sortOrder": 0
+      },
+      {
+        "id": "aa35e586-0eb0-4bc8-89cd-15a002eec4fa",
+        "name": "C#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/c_sharp.ogg",
+        "sortOrder": 1
+      },
+      {
+        "id": "5b3443d9-a553-4ac7-aa1e-4599c6f9841a",
+        "name": "D",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/d.ogg",
+        "sortOrder": 2
+      },
+      {
+        "id": "f024db67-9bdd-463b-8fc3-b230742d83c2",
+        "name": "D#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/d_sharp.ogg",
+        "sortOrder": 3
+      },
+      {
+        "id": "7d23d3d7-e141-45a9-bad9-413042450223",
+        "name": "E",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/e.ogg",
+        "sortOrder": 4
+      },
+      {
+        "id": "5cc01c79-82ff-4248-9e09-bdd9d953164e",
+        "name": "F",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/f.ogg",
+        "sortOrder": 5
+      },
+      {
+        "id": "3af330c8-4675-48e1-82f7-d13e27db1835",
+        "name": "F#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/f_sharp.ogg",
+        "sortOrder": 6
+      },
+      {
+        "id": "5fe528b6-c826-4681-a2b7-9362bec85a79",
+        "name": "G",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/g.ogg",
+        "sortOrder": 7
+      },
+      {
+        "id": "a8fa4d05-cfc0-45f5-be4c-db2dd569657f",
+        "name": "G#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/g_sharp.ogg",
+        "sortOrder": 8
+      },
+      {
+        "id": "79ced50f-4ed2-4653-a7f6-35a1cc5bbdf0",
+        "name": "A",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/a.ogg",
+        "sortOrder": 9
+      },
+      {
+        "id": "8c5b8f83-5b46-452e-afbd-67ddb6f63bae",
+        "name": "A#",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/a_sharp.ogg",
+        "sortOrder": 10
+      },
+      {
+        "id": "3b3dfb23-4bc3-4bb4-b6a3-31c5582c3c2b",
+        "name": "B",
+        "audioUrl": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-audio/celestial-flow/b.ogg",
+        "sortOrder": 11
+      }
+    ]
+  }
+]

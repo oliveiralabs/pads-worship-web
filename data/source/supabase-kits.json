@@ -1,0 +1,152 @@
+[
+  {
+    "id": "3b533bf2-6f34-4a3f-8447-faa82e4e732f",
+    "name": "Sweeper Flanger",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/sweeper-flanger/cover.png",
+    "is_premium": false,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 0
+  },
+  {
+    "id": "12a7ee14-0b10-4c26-98c0-1b6db232de7a",
+    "name": "Atmosphere",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/atmosphere/cover.png",
+    "is_premium": false,
+    "is_default": false,
+    "need_user_task": true,
+    "sort_order": 1
+  },
+  {
+    "id": "2098bf99-4d3d-426c-a63c-cece7c4c4a42",
+    "name": "Epicsaw",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/epicsaw/cover.png",
+    "is_premium": false,
+    "is_default": true,
+    "need_user_task": false,
+    "sort_order": 2
+  },
+  {
+    "id": "6f9d6b82-48ac-4df9-bf5e-ebbdbf348b7c",
+    "name": "Lushpad",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/lushpad/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 3
+  },
+  {
+    "id": "31e07654-be07-45c6-99e9-d3e4130794b4",
+    "name": "Organ",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/organ/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 4
+  },
+  {
+    "id": "0cf9d1a1-4be5-415f-8eb7-cead5b391b2a",
+    "name": "Stringpad",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/stringpad/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 5
+  },
+  {
+    "id": "a17ec634-f674-4da1-84cc-0a627bde55b3",
+    "name": "Bells Minor",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/bells-minor/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 6
+  },
+  {
+    "id": "9a3e0d11-b323-4794-9090-e575e6e11748",
+    "name": "Basic",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/basic/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 7
+  },
+  {
+    "id": "b748e99b-2c83-4c47-942a-92bcaf3c07c8",
+    "name": "Sinos",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/sinos/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 8
+  },
+  {
+    "id": "8d7d81b3-f741-4c37-aba3-32959eae163f",
+    "name": "Soft Over",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/soft-over/cover.png",
+    "is_premium": false,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 9
+  },
+  {
+    "id": "5ade1dba-6c3e-4134-b851-53aadc5d4cb0",
+    "name": "Sweeper Flanger Minor",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/sweeper-flanger-minor/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 10
+  },
+  {
+    "id": "4a3e9877-c65a-4b1a-927e-dfff1f83635e",
+    "name": "Dream Aron Major",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/dream-aron-major/cover.png",
+    "is_premium": false,
+    "is_default": false,
+    "need_user_task": true,
+    "sort_order": 11
+  },
+  {
+    "id": "8ab33832-bd41-42d2-ba81-5e6537036877",
+    "name": "Sinos Minor",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/sinos-minor/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 12
+  },
+  {
+    "id": "f016c0be-292b-4674-8c13-cfb52f50ba15",
+    "name": "Soft Over Minor",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/soft-over-minor/cover.png",
+    "is_premium": true,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 13
+  },
+  {
+    "id": "52aa879c-faf4-4742-8b8e-c5527613515e",
+    "name": "Celestial Flow",
+    "type": "ambient",
+    "image_url": "https://pub-c72774a0fd6d4e29893bc48a678a9714.r2.dev/kit-covers/celestial-flow/cover.png",
+    "is_premium": false,
+    "is_default": false,
+    "need_user_task": false,
+    "sort_order": 15
+  }
+]

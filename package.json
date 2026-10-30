@@ -1,0 +1,29 @@
+{
+  "name": "pads-worship-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predev": "npm run catalog:sync",
+    "dev": "next dev",
+    "catalog:refresh": "node scripts/fetch-supabase-catalog.mjs",
+    "catalog:sync": "node scripts/sync-catalog.mjs",
+    "catalog:validate": "node scripts/validate-catalog.mjs",
+    "prebuild": "npm run catalog:sync && npm run catalog:validate",
+    "build": "next build",
+    "build:production": "NEXT_PUBLIC_SITE_ENV=production npm run build",
+    "start": "npx serve out",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm run build"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "6.0.3"
+  }
+}
