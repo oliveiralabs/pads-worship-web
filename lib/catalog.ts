@@ -4,7 +4,6 @@ import type { Locale, PadSound } from "./types";
 const sounds = catalogData as PadSound[];
 
 export function getAllSounds() { return sounds; }
-export function getFeaturedSounds() { return sounds.filter((sound) => sound.featured); }
 export function getSound(id: string) { return sounds.find((sound) => sound.id === id); }
 
 export function soundRoute(sound: PadSound, locale: Locale = "en") {
